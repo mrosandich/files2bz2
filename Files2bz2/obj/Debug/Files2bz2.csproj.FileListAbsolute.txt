@@ -1,0 +1,9 @@
+D:\work\GitHubs\Ourace\Files2bz2\Files2bz2\bin\Debug\Files2bz2.exe.config
+D:\work\GitHubs\Ourace\Files2bz2\Files2bz2\obj\Debug\Files2bz2.Form1.resources
+D:\work\GitHubs\Ourace\Files2bz2\Files2bz2\obj\Debug\Files2bz2.Properties.Resources.resources
+D:\work\GitHubs\Ourace\Files2bz2\Files2bz2\obj\Debug\Files2bz2.csproj.GenerateResource.Cache
+D:\work\GitHubs\Ourace\Files2bz2\Files2bz2\bin\Debug\Files2bz2.exe
+D:\work\GitHubs\Ourace\Files2bz2\Files2bz2\bin\Debug\Files2bz2.pdb
+D:\work\GitHubs\Ourace\Files2bz2\Files2bz2\obj\Debug\Files2bz2.exe
+D:\work\GitHubs\Ourace\Files2bz2\Files2bz2\obj\Debug\Files2bz2.pdb
+D:\work\GitHubs\Ourace\Files2bz2\Files2bz2\obj\Debug\Files2bz2.csprojResolveAssemblyReference.cache
